@@ -1,0 +1,18 @@
+{
+  "name": "websiteco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.6.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.4",
+    "sass-loader": "^7.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
